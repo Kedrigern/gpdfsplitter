@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-11 17:15+0200\n"
+"PO-Revision-Date: 2011-08-11 18:53+0100\n"
+"Last-Translator: Ondřej Profant <ondrej.profant@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: MainWindow.cs:23
+msgid "gpdfsplitter"
+msgstr ""
+
+#: MainWindow.cs:23
+msgid "/usr/share/locale"
+msgstr ""
+
+#: MainWindow.cs:26
+msgid "gPDFsplitter"
+msgstr ""
+
+#: MainWindow.cs:29
+msgid "1. Select the file:"
+msgstr "1. Vyberte soubor:"
+
+#: MainWindow.cs:30
+msgid "2. Select a range:"
+msgstr "2. Vyberte rozsah:"
+
+#: MainWindow.cs:31
+msgid "3. Output file name:"
+msgstr "3. Jméno výstupního souboru:"
+
+#: MainWindow.cs:32
+msgid "4. Split:"
+msgstr "4. Rozděl:"
+
+#: MainWindow.cs:34
+msgid "Select file"
+msgstr "Vyberte soubor"
+
+# Do not translate!
+#: MainWindow.cs:36
+msgid "application/pdf"
+msgstr ""
+
+#: MainWindow.cs:40
+msgid "output.pdf"
+msgstr ""
+
+#: MainWindow.cs:42
+msgid "Directory is home or actual"
+msgstr "Bude uložen ve vaší domovské složce (popřípadě v aktuální)"
+
+#: MainWindow.cs:45
+msgid "done"
+msgstr "Hotovo"
+
+#: MainWindow.cs:54
+msgid "interval"
+msgstr "Interval"
+
+#: MainWindow.cs:55
+msgid "chapter"
+msgstr "Kapitoly"
+
+#: MainWindow.cs:59
+msgid "Not implemented yet"
+msgstr "Neimplementováno"
+
+#: MainWindow.cs:94
+msgid "Overwrite output file?"
+msgstr "Přepsat výstupní soubor?"
+
+#: MainWindow.cs:96
+msgid "Overwrite?"
+msgstr "Přepsat?"
+
+# Do not trranslate!
+#: MainWindow.cs:104
+#, csharp-format
+msgid "pdftk {0} cat {1}-{2} output {3}"
+msgstr ""
+
+#: MainWindow.cs:116
+msgid "Somethink wrong (pdftk return nonzero"
+msgstr "Něco se pokazilo (příkaz pdftk vrátil nenulovou hodnotu)"
+
