@@ -55,7 +55,7 @@ Priority: optional
 Recommends: 
 Depends: pdftk , gtk-sharp2
 Architecture: all
-Homepage: http://github.com
+Homepage: http://github.com/Kedrigern/gpdfsplitter
 Installed-Size:" > DEBIAN/control
 
 echo $size >> DEBIAN/control
